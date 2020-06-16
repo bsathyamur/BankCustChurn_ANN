@@ -1,1 +1,8 @@
-Using Deep Learning artificial neural networks (ANN) to predict a bank customer churn model using python tensorflow 2.0 
+<b> DEEP LEARNING -ARTIFICIAL NEURAL NETWORKS - CLASSIFICATION </b>
+
+ Deeplearning model to predict whether the bank customer will leave or stay with the bank. The dataset is extracted from kaggle.
+
+<b>INSTALLATION</b>:
+
+ 1. Download the ipynb file in jupyter notebook and the dataset in the same folder
+ 2. Execute the code in jupyter notebook
